@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 /// Service for generating event poster images using Hugging Face
 /// Stable Diffusion API.
 class ImageGenerationService {
-  static const String _apiToken = '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';
+  static const String _apiToken = 'YOUR_HUGGING_FACE_API_TOKEN_HERE';
   static const String _modelUrl =
       'https://router.huggingface.co/hf-inference/models/stabilityai/stable-diffusion-xl-base-1.0';
 
