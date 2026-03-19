@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683993713589",
+    "project_id": "event-planner-bad3f",
+    "storage_bucket": "event-planner-bad3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683993713589:android:a6227d38d6f4b45408e7fc",
+        "android_client_info": {
+          "package_name": "com.example.event_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHhN6tYLsaKRfNUaxYpMJbDDYa9sA0X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
